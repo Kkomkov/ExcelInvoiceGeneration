@@ -1,0 +1,6 @@
+{
+  "tracker": "../Invoice_Tracker.xlsx",
+  "template": "../Invoice__general_template.xlsx",
+  "outputDir": "../invoices",
+  "soffice": ""
+}

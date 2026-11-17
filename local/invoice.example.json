@@ -1,0 +1,25 @@
+{
+  "clientId": "C001",
+  "issueDate": "",
+  "paymentTermsDays": null,
+  "jobs": [
+    {
+      "title": "Garden fence repair",
+      "workQty": 2.5,
+      "workPrice": 40,
+      "materialsQty": 1,
+      "materialsPrice": 18.5,
+      "materialsDetail": "Timber panels, screws, preservative"
+    },
+    {
+      "title": "Gate adjustment",
+      "workQty": 1,
+      "workPrice": 25,
+      "materialsQty": null,
+      "materialsPrice": null,
+      "materialsDetail": ""
+    }
+  ],
+  "postagePrice": 4.2,
+  "notes": "optional internal note"
+}
