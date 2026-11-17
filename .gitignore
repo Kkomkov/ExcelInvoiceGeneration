@@ -1,0 +1,23 @@
+# Generated invoices
+/GeneratedInvoices/
+
+# Personal data folders at any level
+personal*/
+
+# Local configuration
+/local/local_config.json
+
+# Dependencies and virtual environments
+/node_modules/
+/.venv/
+/venv/
+/env/
+
+# Python cache and test output
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# LibreOffice and Excel lock files
+.~lock.*#
+~$*.xlsx
